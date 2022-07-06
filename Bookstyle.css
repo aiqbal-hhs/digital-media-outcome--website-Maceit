@@ -1,0 +1,63 @@
+
+<style media="screen">
+ html {
+     font-family: monospace,sans-serif;
+     font-size: 11px;
+    }
+    
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border:none;
+    outline: none;
+    
+}
+
+ body {
+     background-image: url(THE%20ABOUTTH1.jpg);
+     background-size: cover;
+     color: aquamarine;
+     margin: auto;
+     width: 400px;
+    }
+
+ h1 {
+    color: aquamarine;
+    text-shadow: 1px 1px 0 black, 2px 2px gray;
+    font: bold 40px "Righteous",cursive;   
+    }
+
+h2 {
+     color: crimson;
+     font: bold 20px "inherit",sans-serif; 
+    }
+
+a {
+    color: firebrick;
+    text-decoration: none;
+}
+
+
+a:hover {
+color: lightcoral;
+text-decoration: underline
+}
+
+a:default {
+    color: firebrick;
+}
+
+p {
+    color: aliceblue;
+    margin: 20px 20px 20px 20px;
+   
+}
+
+img {
+    height: 100px;
+    margin: auto
+}
+
+
+</style>
